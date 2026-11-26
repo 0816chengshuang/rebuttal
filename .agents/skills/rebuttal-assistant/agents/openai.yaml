@@ -1,0 +1,7 @@
+interface:
+  display_name: "Rebuttal Assistant"
+  short_description: "Evidence-driven peer-review rebuttal drafting"
+  default_prompt: "Use $rebuttal-assistant to analyze these reviews and prepare a submission-ready rebuttal."
+
+policy:
+  allow_implicit_invocation: true
